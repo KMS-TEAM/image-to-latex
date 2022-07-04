@@ -72,7 +72,7 @@ The model performacne is not as good as I want to be, but I hope the lessons I l
 Clone the repository to your computer and position your command line inside the repository folder:
 
 ```
-git clone https://github.com/kingyiusuen/image-to-latex.git
+git clone https://github.com/KMS-TEAM/image-to-latex.git
 cd image-to-latex
 ```
 
